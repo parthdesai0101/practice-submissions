@@ -6,7 +6,7 @@
 
 ## What is this?
 
-Practice coding solutions that I myself have implemented. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+Practice coding solutions that I myself have implemented in Python. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
 
 ---
 
@@ -28,23 +28,5 @@ Data Structures & Algorithms/two-integer-sum/submission-0.py
 Data Structures & Algorithms/binary-search/submission-0.ts
 Python For Beginners/python-hello-world/submission-0.py
 ```
-
----
-
-## Supported languages
-
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
 
 ---
